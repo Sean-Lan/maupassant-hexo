@@ -36,8 +36,6 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 links:
   - title: Vesion
     url: http://www.shinexu.com/
-  - title: Rational Design
-    url: http://rationaldesign.studio/
   - title: Matt
     url: http://buchi.la/
 
